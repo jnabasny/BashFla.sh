@@ -1,4 +1,4 @@
-# BashFla.sh
+# BashFla.sh :card_index_dividers:
 
 ## Summary
 
@@ -10,5 +10,8 @@ More features to come depending on how useful I find it.
 
 ## Try it out
 
-
-
+```
+cd /tmp
+wget https://raw.githubusercontent.com/jnabasny/BashFla.sh/main/{bashfla.sh,danish}
+bash bashfla.sh danish
+```
