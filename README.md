@@ -1,4 +1,4 @@
-# BashFla.sh :card_index_dividers:
+# BashFla.sh :card_index:
 
 ## Summary
 
