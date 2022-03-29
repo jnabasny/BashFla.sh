@@ -15,3 +15,28 @@ cd /tmp
 wget https://raw.githubusercontent.com/jnabasny/BashFla.sh/main/{bashfla.sh,danish}
 bash bashfla.sh danish
 ```
+
+## Example
+
+`$ ./bashfla.sh danish`
+
+```
+Danish: Hej (high)
+English: Hello
+
+Right: 1 - Wrong: 0
+
+
+Danish: God morgen (gor morn)
+English: Good morning
+
+Right: 2 - Wrong: 0
+
+
+Danish: god dag (gu day)
+English: good day
+
+Right: 2 - Wrong: 1
+
+CORRECT ANSWER: good afternoon
+```
